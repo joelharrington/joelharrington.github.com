@@ -16,3 +16,7 @@ div{
     margin: auto;
     text-align: center;
 }
+a{
+ color: #cc0000;
+ text-decoration: none;
+}
