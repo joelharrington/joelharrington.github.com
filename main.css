@@ -12,7 +12,10 @@ div div div p{
     color: blue;
     font-size: 14px;
 }
-
+img {
+	width:100px;
+	height:100px;
+}
 /*div{
     height: 50px;
     width: 120px;
