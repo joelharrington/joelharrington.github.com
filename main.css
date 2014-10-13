@@ -17,10 +17,11 @@ img {
 	height:100px;
 }
 fieldset{
-width :49%;
-padding : 0;
-margin : 0;
-display : inline-block;
+	border: 1px dotted #61B5CF;
+	margin-top: 1.4em;
+	padding: 0.6em;
+	float:left;
+	width:40%;
 }
 
 /*div{
