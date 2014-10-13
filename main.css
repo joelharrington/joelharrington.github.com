@@ -16,6 +16,12 @@ img {
 	width:100px;
 	height:100px;
 }
+fieldset{
+width :50%;
+padding : 0;
+margin : 0;
+display : inline-block;
+}
 
 /*div{
     height: 50px;
