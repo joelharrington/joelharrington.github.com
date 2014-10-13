@@ -16,9 +16,7 @@ img {
 	width:100px;
 	height:100px;
 }
-body {
-    background-image: url("https://cloud.githubusercontent.com/assets/8796345/4615915/78c6f09e-52ee-11e4-9dd1-4b27dd49c050.JPG");
-}
+
 /*div{
     height: 50px;
     width: 120px;
@@ -41,4 +39,7 @@ fieldset {
     padding-left: 0.75em;
     padding-right: 0.75em;
     border: 2px groove (internal value);
+}
+body {
+    background-image: url("https://cloud.githubusercontent.com/assets/8796345/4615915/78c6f09e-52ee-11e4-9dd1-4b27dd49c050.JPG");
 }
