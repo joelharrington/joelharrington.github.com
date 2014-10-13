@@ -16,6 +16,7 @@ img {
 	width:100px;
 	height:100px;
 }
+/*makes fieldsets appear side by side*/
 fieldset{
 	border: 1px dotted #61B5CF;
 	margin-top: 1.4em;
