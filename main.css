@@ -15,7 +15,7 @@ div div div p{
 img {
 	width:100px;
 	height:100px;
-	opacity: 0.2;
+	opacity: 0.4;
     filter: alpha(opacity=20); /* For IE8 and earlier */
 }
 /*makes fieldsets appear side by side*/
