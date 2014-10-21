@@ -20,12 +20,11 @@ img {
 }
 /*makes fieldsets appear side by side*/
 fieldset{
-	border: 1px dotted #61B5CF;
-	margin-top: 1.4em;
-	padding: 0.6em;
-	float:left;
-	width:40%;
-	height:75%;
+	width: 310px;
+	margin-top: 20px;
+	border: 1px solid #d6d6d6;
+	background-color: #ffffff;
+	line-height: 1.6em;}
 }
 
 /*div{
