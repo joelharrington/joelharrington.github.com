@@ -90,7 +90,7 @@ tr.head th:last-child {
 input[type="text"] {
 	width: 120px;
 	border: 1px solid #d6d6d6;
-	padding: 2px;
+	padding: 5px;
 	outline: none;}
 input[type="text"]:focus,
 input[type="text"]:hover {
